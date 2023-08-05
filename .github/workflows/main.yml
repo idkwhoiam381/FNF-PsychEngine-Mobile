@@ -35,9 +35,9 @@ jobs:
           # sudo apt-get -qq install libvlc-dev
           # sudo apt-get -qq install libvlccore-dev
           sudo apt-get -qq install gcc-11 g++-11
-          rm /usr/bin/gcc /usr/bin/g++
-          ln -s /usr/bin/gcc-11 /usr/bin/gcc
-          ln -s /usr/bin/g++-11 /usr/bin/g++
+          sudo rm /usr/bin/gcc /usr/bin/g++
+          sudo ln -s /usr/bin/gcc-11 /usr/bin/gcc
+          sudo ln -s /usr/bin/g++-11 /usr/bin/g++
           haxelib setup ~/haxelib
           haxelib install hxcpp > /dev/null --quiet
           haxelib install hmm --quiet
