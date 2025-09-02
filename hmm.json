@@ -4,8 +4,8 @@
       "name": "lime",
       "type": "git",
       "dir": null,
-      "ref": "main",
-      "url": "https://github.com/mcagabe19-stuff/lime"
+      "ref": null,
+      "url": "https://github.com/th2l-devs/lime"
     },
     {
       "name": "openfl",
@@ -36,22 +36,22 @@
       "name": "hxcpp",
       "type": "git",
       "dir": null,
-      "ref": "master",
-      "url": "https://github.com/mcagabe19-stuff/hxcpp"
+      "ref": null,
+      "url": "https://github.com/th2l-devs/hxcpp"
     },
     {
       "name": "hxCodec",
       "type": "git",
       "dir": null,
       "ref": "main",
-      "url": "https://github.com/mcagabe19-stuff/hxCodec"
+      "url": "https://github.com/PsychExtendedThings/hxCodec-0.6.3"
     },
     {
       "name": "hxvlc",
       "type": "git",
       "dir": null,
       "ref": "main",
-      "url": "https://github.com/mcagabe19-stuff/hxvlc"
+      "url": "https://github.com/Moxie-Stuff/hxvlc"
     },
     {
       "name": "SScript",
