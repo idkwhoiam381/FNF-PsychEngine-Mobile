@@ -10,27 +10,29 @@
     {
       "name": "openfl",
       "type": "haxelib",
-      "version": null
+      "version": "9.3.3"
     },
     {
       "name": "flixel",
-      "type": "haxelib",
-      "version": null
+      "type": "git",
+      "dir": null,
+      "ref": null,
+      "url": "https://github.com/th2l-devs/flixel"
     },
     {
       "name": "flixel-addons",
       "type": "haxelib",
-      "version": null
+      "version": "3.2.1"
     },
     {
       "name": "flixel-tools",
       "type": "haxelib",
-      "version": null
+      "version": "1.5.1"
     },
     {
       "name": "flixel-ui",
       "type": "haxelib",
-      "version": null
+      "version": "2.5.0"
     },
     {
       "name": "hxcpp",
@@ -55,8 +57,10 @@
     },
     {
       "name": "SScript",
-      "type": "haxelib",
-      "version": null
+      "type": "git",
+      "dir": null,
+      "ref": null,
+      "url": "https://github.com/th2l-devs/SScript"
     },
     {
       "name": "hxcpp-debug-server",
@@ -71,14 +75,14 @@
     {
       "name": "hxdiscord_rpc",
       "type": "haxelib",
-      "version": null
+      "version": "1.3.0"
     },
     {
       "name": "linc_luajit",
       "type": "git",
       "dir": null,
-      "ref": "master",
-      "url": "https://github.com/superpowers04/linc_luajit.git"
+      "ref": null,
+      "url": "https://github.com/th2l-devs/linc_luajit"
     },
     {
       "name": "flxanimate",
