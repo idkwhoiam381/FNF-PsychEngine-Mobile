@@ -2,15 +2,13 @@
   "dependencies": [
     {
       "name": "lime",
-      "type": "git",
-      "dir": null,
-      "ref": "main",
-      "url": "https://github.com/AlafandyPorting/lime-0.7.3"
+      "type": "haxelib",
+      "version": "7.9.0"
     },
     {
       "name": "openfl",
       "type": "haxelib",
-      "version": "9.3.2"
+      "version": "9.1.0"
     },
     {
       "name": "flixel",
