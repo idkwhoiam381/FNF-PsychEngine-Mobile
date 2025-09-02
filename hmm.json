@@ -4,13 +4,13 @@
       "name": "lime",
       "type": "git",
       "dir": null,
-      "ref": null,
-      "url": "https://github.com/th2l-devs/lime"
+      "ref": "main",
+      "url": "https://github.com/PsychExtendedThings/lime-new"
     },
     {
       "name": "openfl",
       "type": "haxelib",
-      "version": "9.3.3"
+      "version": "9.2.1"
     },
     {
       "name": "flixel",
