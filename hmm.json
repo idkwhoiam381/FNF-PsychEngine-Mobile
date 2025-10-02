@@ -2,10 +2,8 @@
   "dependencies": [
     {
       "name": "lime",
-      "type": "git",
-      "dir": null,
-      "ref": "main",
-      "url": "https://github.com/Prohack101010/lime7.9.0-arm"
+      "type": "haxelib",
+      "version": "7.9.0"
     },
     {
       "name": "openfl",
@@ -34,10 +32,8 @@
     },
     {
       "name": "hxcpp",
-      "type": "git",
-      "dir": null,
-      "ref": "main",
-      "url": "https://github.com/AlafandyPorting/hxcpp"
+      "type": "haxelib",
+      "version": "4.2.1"
     },
     {
       "name": "hxCodec",
@@ -58,7 +54,7 @@
       "type": "git",
       "dir": null,
       "ref": "main",
-      "url": "https://github.com/AlafandyPorting/SScript"
+      "url": "https://github.com/idkwhoiam381/SScript-8.1.6"
     },
     {
       "name": "hxcpp-debug-server",
