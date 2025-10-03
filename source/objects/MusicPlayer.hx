@@ -1,5 +1,6 @@
 package objects;
 
+import flixel.FlxG;
 import flixel.group.FlxGroup;
 import flixel.ui.FlxBar;
 import flixel.util.FlxStringUtil;
