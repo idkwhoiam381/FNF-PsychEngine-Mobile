@@ -4,8 +4,8 @@
       "name": "lime",
       "type": "git",
       "dir": null,
-      "ref": "master",
-      "url": "https://github.com/idkwhoiam381/lime"
+      "ref": "main",
+      "url": "https://github.com/JuniorNovoa1/lime-android-git"
     },
     {
       "name": "openfl",
@@ -14,8 +14,10 @@
     },
     {
       "name": "flixel",
-      "type": "haxelib",
-      "version": "5.5.0"
+      "type": "git",
+      "dir": null,
+      "ref": "main",
+      "url": "https://github.com/JuniorNovoa1/flixel-android-git"
     },
     {
       "name": "flixel-addons",
@@ -37,14 +39,14 @@
       "type": "git",
       "dir": null,
       "ref": "main",
-      "url": "https://github.com/AlafandyPorting/hxcpp"
+      "url": "https://github.com/JuniorNovoa1/hxcpp-android"
     },
     {
       "name": "hxCodec",
       "type": "git",
       "dir": null,
       "ref": "main",
-      "url": "https://github.com/PsychExtendedThings/hxCodec-0.6.3"
+      "url": "https://github.com/JuniorNovoa1/hxCodec-Psych-0.7.3"
     },
     {
       "name": "hxvlc",
@@ -58,7 +60,7 @@
       "type": "git",
       "dir": null,
       "ref": "main",
-      "url": "https://github.com/idkwhoiam381/SScript-8.1.6"
+      "url": "https://github.com/JuniorNovoa1/SScript-7.7.0"
     },
     {
       "name": "hxcpp-debug-server",
@@ -79,8 +81,8 @@
       "name": "linc_luajit",
       "type": "git",
       "dir": null,
-      "ref": "master",
-      "url": "https://github.com/superpowers04/linc_luajit.git"
+      "ref": "main",
+      "url": "https://github.com/Brenninho123/linc_luajit-rewriten"
     },
     {
       "name": "flxanimate",
@@ -88,13 +90,6 @@
       "dir": null,
       "ref": "dev",
       "url": "https://github.com/ShadowMario/flxanimate.git"
-    },
-    {
-      "name": "extension-androidtools",
-      "type": "git",
-      "dir": null,
-      "ref": "main",
-      "url": "https://github.com/KarimAkra/extension-androidtools"
     }
   ]
 }
