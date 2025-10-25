@@ -178,7 +178,7 @@ class SUtil
 	{
 		if (!Permissions.getGrantedPermissions().contains('android.permission.READ_EXTERNAL_STORAGE') || !Permissions.getGrantedPermissions().contains('permission.WRITE_EXTERNAL_STORAGE'))
 		{
-			if (!Permissions.getGrantedPermissions().contains('android.permission.READ_EXTERNAL_STORAGE')) Permissions.requestPermission('android.permission.READ_EXTERNAL_STORAGE');
+			if (!Permissions.getGrantedPermissions().contains('android.permission.READ_EXTERNAL_STORAGE'))) Permissions.requestPermission('android.permission.READ_EXTERNAL_STORAGE');
 			if (!Permissions.getGrantedPermissions().contains('android.permission.WRITE_EXTERNAL_STORAGE')) Permissions.requestPermission('android.permission.WRITE_EXTERNAL_STORAGE');
 			showPopUp('Please Make Sure You Accepted The Permissions To Be Able To Run The Game', 'Notice!');
 		}
